@@ -3,7 +3,17 @@ entries:
   myfirst-api-server:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-04-23T11:36:04.500714+09:00"
+    created: "2026-04-23T11:41:43.942951+09:00"
+    description: A simple Helm chart for learning (Kubernetes API server deployment)
+    digest: b854472f56ea8036dd667c2a89d17e7da51ac5a22d61ab8a3dbb8ca691175b1e
+    name: myfirst-api-server
+    type: application
+    urls:
+    - https://sehaim.github.io/mycharts/myfirst-api-server-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-04-23T11:41:43.942834+09:00"
     description: A simple Helm chart for learning (Kubernetes API server deployment)
     digest: 22aafae6fbd9db49462176a9c5804d1bcf226778ae95d2c2113dd84290b3a58b
     name: myfirst-api-server
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://sehaim.github.io/mycharts/myfirst-api-server-0.0.2.tgz
     version: 0.0.2
-generated: "2026-04-23T11:36:04.499241+09:00"
+generated: "2026-04-23T11:41:43.942215+09:00"
